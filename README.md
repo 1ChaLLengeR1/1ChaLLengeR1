@@ -1,8 +1,6 @@
-<p align="center">
-    <h1>Hi there 👋, Artur Ścibor</h1>
-    <h2>Jestem FullStack Vue.js Developer</h2>
-</p>
 
+<h1 align="center">Hi there 👋, Artur Ścibor</h1>
+<h2 align="center">Jestem FullStack Vue.js Developer</h2>
 <p align="center">
     <img width="50%" src="https://server.arturscibor.pl/file/portfolioImage/portfolio3.png" alt="logo">
 </p>
