@@ -2,7 +2,7 @@
 #### Jestem FullStack Vue.js Developer
 
 <p align="center">
-    <img width="100%" src="https://server.arturscibor.pl/file/portfolioImage/portfolio3.png" alt="logo">
+    <img width="50%" src="https://server.arturscibor.pl/file/portfolioImage/portfolio3.png" alt="logo">
 </p>
 
 
