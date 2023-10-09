@@ -8,22 +8,22 @@
 
 Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 semestru studiów inżynierskich o kierunku informatycznym na Uniwersytecie Pedagogicznym w Krakowie. Kształcę się na kierunku programistycznym - WebDeveloper - czyli uczę się pisania stron internetowych. Wcześniej ukończyłem technikum na kierunku technik informatyk, więc praktycznie komputer towarzyszył mi od zawsze. Więcej informacji o mnie na mojej stronie portfolio: https://arturscibor.pl/
 
-Skills :hammer_and_wrench  
-* Vue.js
-* Quasar
-* Vuetify
-* JavaScript
-* TypeScript
-* HTML
-* CSS
-* Tailwind CSS
-* PostgresSQL
-* VPS
-* Nginx
-* Linux
-* and more...
+:hammer_and_wrench Skills  
+- Vue.js
+- Quasar
+- Vuetify
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Tailwind CSS
+- PostgresSQL
+- VPS
+- Nginx
+- Linux
+- and more...
 
-  <h3>Level English: B1, B1+</h3>
+<h3>Level English: B1, B1+</h3>
 
 - 🔭 I’m currently working on https://arturscibor.pl/ 
 - 🌱 I’m currently learning Laravela 
