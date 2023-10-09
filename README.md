@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, Artur Ścibor</h1>
 <h2 align="center">Jestem FullStack Vue.js Developer</h2>
 <p align="center">
-    <img width="50%" src="https://server.arturscibor.pl/file/imagesproject/Frontend-0914754c-b46c-4a0c-8ec0-be43034bc93e-0.4201985361698901-zdjecie1_projekt.png" alt="logo">
+    <img width="100%" src="https://server.arturscibor.pl/file/imagesproject/Frontend-0914754c-b46c-4a0c-8ec0-be43034bc93e-0.4201985361698901-zdjecie1_projekt.png" alt="logo">
 </p>
 
 
