@@ -1,6 +1,5 @@
 <p align="center">
     <h1>Hi there 👋, Artur Ścibor</h1>
-    <h2>Jestem FullStack Vue.js Developer</h2>
 </p>
 
 <p align="center">
