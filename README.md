@@ -1,9 +1,6 @@
 ### Hi there 👋, Artur Ścibor
 #### Jestem FullStack Vue.js Developer
 ![Jestem FullStack Vue.js Developer](https://server.arturscibor.pl/file/portfolioImage/portfolio3.png)
-<p align="center">
-  <img width="100%" height="100%" src="[https://picsum.photos/460/300](https://server.arturscibor.pl/file/portfolioImage/portfolio3.png)">
-</p>
 
 <p align="center">
     <img width="200" src="https://server.arturscibor.pl/file/portfolioImage/portfolio3.png" alt="logo">
