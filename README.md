@@ -1,5 +1,7 @@
-### Hi there 👋, Artur Ścibor
-#### Jestem FullStack Vue.js Developer
+<p align="center">
+    <h1>Hi there 👋, Artur Ścibor</h1>
+    <h2>Jestem FullStack Vue.js Developer</h2>
+</p>
 
 <p align="center">
     <img width="50%" src="https://server.arturscibor.pl/file/portfolioImage/portfolio3.png" alt="logo">
