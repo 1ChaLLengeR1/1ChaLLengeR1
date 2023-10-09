@@ -1,9 +1,25 @@
 
+ .container {
+          background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
 
-<div style="width:100%; display:flex; justify-content: center; align-items: center;">
+          width: 100%;
+          height: 300px;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+
+<div class="container">
   ### Hi there 👋, Artur Ścibor
-#### Jestem FullStack Vue.js Developer
-![Jestem FullStack Vue.js Developer](https://server.arturscibor.pl/file/portfolioImage/portfolio3.png)
+  #### Jestem FullStack Vue.js Developer
+  ![Jestem FullStack Vue.js Developer](https://server.arturscibor.pl/file/portfolioImage/portfolio3.png)
 </div>
 
 Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 semestru studiów inżynierskich o kierunku informatycznym na Uniwersytecie Pedagogicznym w Krakowie. Kształcę się na kierunku programistycznym - WebDeveloper - czyli uczę się pisania stron internetowych. Wcześniej ukończyłem technikum na kierunku technik informatyk, więc praktycznie komputer towarzyszył mi od zawsze. Więcej informacji o mnie na mojej stronie portfolio: https://arturscibor.pl/
