@@ -25,7 +25,7 @@ Skills🛠️
 
 <h3>Level English: B1, B1+</h3>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1ra&theme=algolia&show_icons=true" alt="stats" />
 </p>
 
 - 🔭 I’m currently working on https://arturscibor.pl/ 
