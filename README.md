@@ -24,6 +24,7 @@ Skills🛠️
 - and more...
 
 <h3>Level English: B1, B1+</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=dark&show_icons=true)
 
 - 🔭 I’m currently working on https://arturscibor.pl/ 
 - 🌱 I’m currently learning Laravela 
