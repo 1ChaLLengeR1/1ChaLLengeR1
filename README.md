@@ -24,7 +24,8 @@ Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 s
 <br />
 #
 <h3 >Level English: B1, B1+</h3>   
- 
+<br />
+#
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
 </p>
