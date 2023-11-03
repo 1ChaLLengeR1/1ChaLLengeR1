@@ -9,22 +9,21 @@
 Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 semestru studiów inżynierskich o kierunku informatycznym na Uniwersytecie Pedagogicznym w Krakowie. Kształcę się na kierunku programistycznym - WebDeveloper - czyli uczę się pisania stron internetowych. Wcześniej ukończyłem technikum na kierunku technik informatyk, więc praktycznie komputer towarzyszył mi od zawsze. Więcej informacji o mnie na mojej stronie portfolio: https://arturscibor.pl/
 
 ### Skills🛠️  
-<p>
-    <img align="left" alt="Vue.js" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> 
-    <img align="left" alt="Quasar" width="60px" style="padding-right:10px;"  src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/quasar%20logo.png" /> 
-    <img align="left" alt="Vuetify" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> 
-    <img align="left" alt="JavaScript" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    <img align="left" alt="TypeScript" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-    <img align="left" alt="HTML5" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
-    <img align="left" alt="CSS" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
-    <img align="left" alt="Tailwind" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" /> 
-    <img align="left" alt="PostgresSQL" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
-    <img align="left" alt="Linux" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
-    <img align="left" alt="Nginx" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> 
-</p>
-<p>
-  <h3 >Level English: B1, B1+</h3>   
-</p>
+
+<img align="left" alt="Vue.js" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> 
+<img align="left" alt="Quasar" width="60px" style="padding-right:10px;"  src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/quasar%20logo.png" /> 
+<img align="left" alt="Vuetify" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> 
+<img align="left" alt="JavaScript" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+<img align="left" alt="TypeScript" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+<img align="left" alt="HTML5" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
+<img align="left" alt="CSS" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
+<img align="left" alt="Tailwind" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" /> 
+<img align="left" alt="PostgresSQL" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
+<img align="left" alt="Linux" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+<img align="left" alt="Nginx" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> 
+<br />
+#
+<h3 >Level English: B1, B1+</h3>   
  
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
