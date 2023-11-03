@@ -11,7 +11,7 @@ Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 s
 ### Skills🛠️  
 
 <img align="left" alt="Vue.js" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> 
-<img align="left" alt="Quasar" width="60px" style="padding-right:10px;"  src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elevate.in%2F%3Fw%3Dicon-quasar-framework-cc-jNyd18s1&psig=AOvVaw3Y0NQlmUI040_jnoJlm61t&ust=1699094787274000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiDybzTp4IDFQAAAAAdAAAAABAw)" /> 
+<img align="left" alt="Quasar" width="60px" style="padding-right:10px;"  src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/quasar%20logo.png" /> 
 <img align="left" alt="Vuetify" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> 
 <img align="left" alt="Vue.js" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> 
 <img align="left" alt="Vue.js" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> 
@@ -22,7 +22,7 @@ Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 s
 <img align="left" alt="Vue.js" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> 
 <img align="left" alt="Vue.js" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> 
 
-
+https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/quasar%20logo.png
 - Quasar
 - Vuetify
 - JavaScript
