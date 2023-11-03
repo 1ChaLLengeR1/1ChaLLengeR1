@@ -22,7 +22,6 @@ Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 s
 <img align="left" alt="Vue.js" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> 
 <img align="left" alt="Vue.js" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> 
 
-https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/quasar%20logo.png
 - Quasar
 - Vuetify
 - JavaScript
