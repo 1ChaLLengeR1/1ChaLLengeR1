@@ -32,7 +32,9 @@ Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 s
 - 👯 I’m looking to collaborate on Vue.js 
 - 💬 Ask me about Vue.js 
 - 📫 How to reach me: artek.scibor@gmail.com 
-- ⚡ Fun fact: jeżdżę na rowerze 
+- ⚡ Fun fact: jeżdżę na rowerze
+
+## Projekty, które stworzyłem
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/1ChaLLengeR1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/artur-%C5%9Bcibor-9799ba276//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100008634312630)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/artur.sciborr//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arturscibor.pl/)  
