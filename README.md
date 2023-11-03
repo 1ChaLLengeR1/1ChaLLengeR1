@@ -23,11 +23,8 @@ Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 s
 <img align="left" alt="Nginx" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> 
 
 
-<h3 align="left" >Level English: B1, B1+</h3>  
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
-</p>
-
+<h3" >Level English: B1, B1+</h3>  
+<img src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
 - 🔭 I’m currently working on https://arturscibor.pl/ 
 - 🌱 I’m currently learning Laravela 
 - 👯 I’m looking to collaborate on Vue.js 
