@@ -25,7 +25,7 @@ Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 s
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
 
-<h3 align="left">Level English: B1, B1+</h3>  
+<h3 width="100%" align="left">Level English: B1, B1+</h3>  
 
 - 🔭 I’m currently working on https://arturscibor.pl/ 
 - 🌱 I’m currently learning Laravela 
