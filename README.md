@@ -8,7 +8,7 @@
 
 Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 semestru studiów inżynierskich o kierunku informatycznym na Uniwersytecie Pedagogicznym w Krakowie. Kształcę się na kierunku programistycznym - WebDeveloper - czyli uczę się pisania stron internetowych. Wcześniej ukończyłem technikum na kierunku technik informatyk, więc praktycznie komputer towarzyszył mi od zawsze. Więcej informacji o mnie na mojej stronie portfolio: https://arturscibor.pl/
 
-### Skills🛠️  
+## Skills🛠️  
 
 <img align="left" alt="Vue.js" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> 
 <img align="left" alt="Quasar" width="60px" style="padding-right:10px;"  src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/quasar%20logo.png" /> 
