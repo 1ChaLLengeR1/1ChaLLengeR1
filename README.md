@@ -41,13 +41,13 @@ Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 s
 ### Pierwszy projekt: Strona budowlana
 <img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/0.790688526538878-firstPhoto-zdjecieprojektu.png" /> 
 
-- Link do strony: https://projekt1.strona.arturscibor.pl/
+- Link do strony: https://projekt2.strona.arturscibor.pl/aboutU
 - Więcej informacji znajduję się: https://arturscibor.pl/projects/project/f6ece8b2-c4f5-4802-9535-b66ea10b2a35
 
-### Drugi projekt: Strona Portfolio kolegii
+### Drugi projekt: Strona Portfolio kolegi
 <img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/0.4310781511819268-firstPhoto-image_project_maks.png" /> 
 
-- Link do strony: https://projekt2.strona.arturscibor.pl/aboutU
+- Link do strony: https://projekt1.strona.arturscibor.pl/
 - Więcej informacji znajduję się: https://arturscibor.pl/projects/project/7ce969b3-4217-4646-b4b0-6e9fceb0a7e0
 
 ### Trzeci projekt: Strona portfolio moja
