@@ -22,7 +22,6 @@ Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 s
 <img align="left" alt="PostgresSQL" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
 <img align="left" alt="Linux" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
 <img align="left" alt="Nginx" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-<br />
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
 
 <h3 width="100%" align="left">Level English: B1, B1+</h3>  
@@ -41,7 +40,6 @@ Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 s
 # Projekty
 ### Pierwszy projekt: Strona budowlana
 <img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/0.790688526538878-firstPhoto-zdjecieprojektu.png" /> 
-<br />
 - Link do strony: https://projekt1.strona.arturscibor.pl/
 - Więcej informacji znajduję się: https://arturscibor.pl/projects/project/f6ece8b2-c4f5-4802-9535-b66ea10b2a35
 
