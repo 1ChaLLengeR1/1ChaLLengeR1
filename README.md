@@ -44,7 +44,7 @@ Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 s
 - Link do strony: https://projekt1.strona.arturscibor.pl/
 - Więcej informacji znajduję się: https://arturscibor.pl/projects/project/f6ece8b2-c4f5-4802-9535-b66ea10b2a35
 
-(__________________________________________________________________________________________________________________________________________)
+### Drugi projekt: Strona budowlana
 
 
   
