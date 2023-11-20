@@ -18,6 +18,8 @@ Mam na siebie kilka pomysł, jak szlifować swoją wiedzę w zakresie Web Develo
 - Projekt, który obecnie jest w fazie opracowania, jest komercyjnym przedsięwzięciem. Konkretnie, jest to projekt dotyczący stworzenia strony internetowej dla działalności mojej mamy, która posiada znaczną liczbę klientów docelowych.
 - Podniesienie swoich umiejętności językowych z angielskiego. Jest to dla mnie bardzo ważne.
 - Przeczytanie książki "Czysty kod", która poprawi moje umiejętności pisania.
+
+
 To są moje najbliższe cele do zrealizowania. 
 
 ## Skills🛠️  
