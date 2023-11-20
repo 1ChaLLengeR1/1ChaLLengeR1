@@ -10,7 +10,7 @@ Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 7 s
 ## Moje stanowisko pracy
 Obecnie moje stanowisko wygląda tak. Wiem, że jedno zdjęcie może nie oddać wszystkiego, ale praktycznie wszystko, co potrzebuję do codziennej nauki i pracy, znajduje się na nim. W planach mam rozbudowę stanowiska, dodanie czwartego monitora do pracy, a ostatecznie zamianę kwadratowego na podobny model do pozostałych, aby utworzyć kompleksowe stanowisko oparte na 24 calach. Dlaczego aż cztery monitory? Gdy piszę projekty w kilku technologiach jednocześnie i czytam informacje, potrzebuję miejsca na wszystko. Teraz, ucząc się i pracując nad projektami jako full stack, to naprawdę pomaga, ponieważ nie muszę ciągle przełączać kart - wszystko jest otwarte, a zmiany, edytory itp. są na bieżąco widoczne.
 <p align="center">
-    <img width="100%" src="https://server.arturscibor.pl/file/imagesproject/Frontend-0914754c-b46c-4a0c-8ec0-be43034bc93e-0.4201985361698901-zdjecie1_projekt.png" alt="logo" />
+    <img width="100%" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/stanowisko.jpg" alt="stanowisko_komputerowe" />
 </p>
 
 ## Skills🛠️  
