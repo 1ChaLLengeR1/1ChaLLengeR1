@@ -5,7 +5,13 @@
     <img width="100%" src="https://server.arturscibor.pl/file/imagesproject/Frontend-0914754c-b46c-4a0c-8ec0-be43034bc93e-0.4201985361698901-zdjecie1_projekt.png" alt="logo" />
 </p>
 
-Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 6 semestru studiów inżynierskich o kierunku informatycznym na Uniwersytecie Pedagogicznym w Krakowie. Kształcę się na kierunku programistycznym - WebDeveloper - czyli uczę się pisania stron internetowych. Wcześniej ukończyłem technikum na kierunku technik informatyk, więc praktycznie komputer towarzyszył mi od zawsze. Więcej informacji o mnie na mojej stronie portfolio: https://arturscibor.pl/
+Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 7 semestru studiów inżynierskich o kierunku informatycznym na Uniwersytecie Pedagogicznym w Krakowie. Kształcę się na kierunku programistycznym - WebDeveloper na stanowisku full stack developer opartym na frameworku Vue.js. W tym momencie jestem na etapie pisania projektu inżynierskiego, jako backend devloper na technologii Laravel. Jestem w trakcie nauki oczywiście tej technologii, ponieważ jest to mój pierwszy projekt związany z tym językiem. 
+
+## Moje stanowisko pracy
+Obecnie moje stanowisko wygląda tak. Wiem, że jedno zdjęcie może nie oddać wszystkiego, ale praktycznie wszystko, co potrzebuję do codziennej nauki i pracy, znajduje się na nim. W planach mam rozbudowę stanowiska, dodanie czwartego monitora do pracy, a ostatecznie zamianę kwadratowego na podobny model do pozostałych, aby utworzyć kompleksowe stanowisko oparte na 24 calach. Dlaczego aż cztery monitory? Gdy piszę projekty w kilku technologiach jednocześnie i czytam informacje, potrzebuję miejsca na wszystko. Teraz, ucząc się i pracując nad projektami jako full stack, to naprawdę pomaga, ponieważ nie muszę ciągle przełączać kart - wszystko jest otwarte, a zmiany, edytory itp. są na bieżąco widoczne.
+<p align="center">
+    <img width="100%" src="https://server.arturscibor.pl/file/imagesproject/Frontend-0914754c-b46c-4a0c-8ec0-be43034bc93e-0.4201985361698901-zdjecie1_projekt.png" alt="logo" />
+</p>
 
 ## Skills🛠️  
 
