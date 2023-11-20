@@ -38,8 +38,8 @@ To są moje najbliższe cele do zrealizowania.
 <img align="left" alt="Nginx" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
 
-## Krótko o mnie
-<h1>Level English: B1, B1+</h1>
+## #Krótko o mnie
+<h2>Level English: B1, B1+</h2>
 
 - 🔭 I’m currently working on https://arturscibor.pl/ 
 - 🌱 I’m currently learning Laravela 
