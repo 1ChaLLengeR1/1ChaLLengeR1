@@ -13,6 +13,13 @@ Obecnie moje stanowisko wygląda tak. Wiem, że jedno zdjęcie może nie oddać 
     <img width="100%" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/stanowisko.jpg" alt="stanowisko_komputerowe" />
 </p>
 
+## W jaki sposób plauje rozwijać się 🌱🌱🌱
+Mam na siebie kilka pomysł, jak szlifować swoją wiedzę w zakresie Web Developera.
+- Projekt, który obecnie jest w fazie opracowania, jest komercyjnym przedsięwzięciem. Konkretnie, jest to projekt dotyczący stworzenia strony internetowej dla działalności mojej mamy, która posiada znaczną liczbę klientów docelowych.
+- Podniesienie swoich umiejętności językowych z angielskiego. Jest to dla mnie bardzo ważne.
+- Przeczytanie książki "Czysty kod", która poprawi moje umiejętności pisania.
+To są moje najbliższe cele do zrealizowania. 
+
 ## Skills🛠️  
 
 <img align="left" alt="Vue.js" width="60px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> 
