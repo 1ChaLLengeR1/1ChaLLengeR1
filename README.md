@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, Artur Ścibor</h1>
 <h2 align="center">Jestem FullStack Vue.js Developer</h2>
 <p align="center">
-    <img width="100%" src="https://server.arturscibor.pl/file/imagesproject/Frontend-0914754c-b46c-4a0c-8ec0-be43034bc93e-0.4201985361698901-zdjecie1_projekt.png" alt="logo" />
+   <img width="100%" align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/0.49689868733778075-firstPhoto-zdjecie1_projekt.png" />
 </p>
 
 Cześć, nazywam się Artur i mam 23 lata. W chwili obecnej jestem studentem 7 semestru studiów inżynierskich o kierunku informatycznym na Uniwersytecie Pedagogicznym w Krakowie. Kształcę się na kierunku programistycznym - WebDeveloper na stanowisku full stack developer opartym na frameworku Vue.js. W tym momencie jestem na etapie pisania projektu inżynierskiego, jako backend devloper na technologii Laravel. Jestem w trakcie nauki oczywiście tej technologii, ponieważ jest to mój pierwszy projekt związany z tym językiem. 
