@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, Artur Ścibor</h1>
-<h2 align="center">I'm Ful lStack Vue.js Developer</h2>
+<h2 align="center">I'm Full Stack Vue.js Developer</h2>
 <p align="center">
    <img width="100%" align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/0.49689868733778075-firstPhoto-zdjecie1_projekt.png" />
 </p>
