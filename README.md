@@ -23,9 +23,9 @@ To są moje najbliższe cele do zrealizowania.
 
 ## Skills🛠️  
 
-| name           | icon                                                                                                                                          |
+| name            | icon                                                                                                                                           |
 |---------------- |-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Vue.js          | <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />                               |
+| Vue.js          | <img alt="Vue.js  width="60px"" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />                 |
 | Quasar          | <img alt="Quasar" width="60px" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/icons/quasar%20logo.png" />                        |
 | Vuetify         | <img alt="Vuetify" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />                      |
 | JavaScript      | <img alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />             |
@@ -34,7 +34,7 @@ To są moje najbliższe cele do zrealizowania.
 | Tailwind        | <img  alt="Tailwind" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />   |
 | Node.js         | <img alt="Node.js" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />               |
 | Python(FastAPI) | <img alt="FastAPI" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />             |
-| PostgresSQL     | <img alt="PostgresSQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"      |
+| PostgresSQL     | <img alt="PostgresSQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />   |
 | Linux           | <img alt="Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />                            |
 | Nginx           | <img alt="Nginx" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />                            |
 
