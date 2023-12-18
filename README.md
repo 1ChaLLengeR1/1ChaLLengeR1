@@ -45,7 +45,7 @@ These are my immediate goals to achieve.
 <h2>Level English: B1, B1+</h2>
 
 - 🔭 I’m currently working on https://arturscibor.pl/ 
-- 🌱 I’m currently learning Laravela 
+- 🌱 I’m currently learning Nuxt3 
 - 👯 I’m looking to collaborate on Vue.js 
 - 💬 Ask me about Vue.js 
 - 📫 How to reach me: artek.scibor@gmail.com 
