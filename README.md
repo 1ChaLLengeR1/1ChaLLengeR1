@@ -25,7 +25,7 @@ To są moje najbliższe cele do zrealizowania.
 
 | name            | icon                                                                                                                                           |
 |---------------- |-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Vue.js          | <img alt="Vue.js  width="60px"" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />                 |
+| Vue.js          | <img alt="Vue.js"  width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />                 |
 | Quasar          | <img alt="Quasar" width="60px" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/icons/quasar%20logo.png" />                        |
 | Vuetify         | <img alt="Vuetify" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />                      |
 | JavaScript      | <img alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />             |
