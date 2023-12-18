@@ -23,7 +23,7 @@ To są moje najbliższe cele do zrealizowania.
 
 ## Skills🛠️  
 
-- <img alt="Vue.js" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+- <img alt="Vue.js" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> Vue.js
 - <img alt="Quasar" width="60px" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/icons/quasar%20logo.png" />
 - <img alt="Vuetify" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> 
 - <img alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
@@ -36,7 +36,7 @@ To są moje najbliższe cele do zrealizowania.
 - <img alt="PostgresSQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
 - <img alt="Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
 - <img alt="Nginx" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
 
 ### Krótko o mnie
 <h2>Level English: B1, B1+</h2>
