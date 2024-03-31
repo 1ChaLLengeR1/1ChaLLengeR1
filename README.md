@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, my name is Artur Ścibor</h1>
 <h2 align="center">I'm Full Stack Vue.js Developer</h2>
 <p align="center">
-   <img width="100%" align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/0.49689868733778075-firstPhoto-zdjecie1_projekt.png" />
+   <img width="100%" align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/arturscibor.jpg" />
 </p>
 
 Hi, my name is Artur and I am 23 years old. At the moment I am a 7th semester engineering student with a major in computer science at the Pedagogical University of Cracow. I'm studying programming - WebDeveloper as a full stack developer based on Vue.js framework. At the moment I am at the stage of writing an engineering project as a backend devloper on Laravel technology. I am in the process of learning this technology, of course, as this is my first project related to this language. 
