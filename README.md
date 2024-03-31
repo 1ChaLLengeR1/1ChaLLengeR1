@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, my name is Artur Ścibor</h1>
 <h2 align="center">I'm Full Stack Vue.js Developer</h2>
 <p align="center">
-   <img width="100%" align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/arturscibor.jpg" />
+   <img width="100%" align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/arturscibor.png" />
 </p>
 
 Hi, my name is Artur and I am 23 years old. At the moment I am a 7th semester engineering student with a major in computer science at the Pedagogical University of Cracow. I'm studying programming - WebDeveloper as a full stack developer based on Vue.js framework. At the moment I am at the stage of writing an engineering project as a backend devloper on Laravel technology. I am in the process of learning this technology, of course, as this is my first project related to this language. 
@@ -57,31 +57,31 @@ These are my immediate goals to achieve.
 
 # Projects
 ### First project: construction site
-<img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/0.790688526538878-firstPhoto-zdjecieprojektu.png" /> 
+<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/budowlana.png" /> 
 
 - Link to site: https://projekt2.strona.arturscibor.pl/aboutU
 - For more information, see: https://arturscibor.pl/projects/project/7ce969b3-4217-4646-b4b0-6e9fceb0a7e0
 
 ### The second project: a colleague's portfolio site
-<img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/0.4310781511819268-firstPhoto-image_project_maks.png" /> 
+<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/maksaStrona.png" /> 
 
 - Link to site: https://projekt1.strona.arturscibor.pl/
 - For more information, see: https://arturscibor.pl/projects/project/f6ece8b2-c4f5-4802-9535-b66ea10b2a35
 
 ### The third project: a portfolio site of mine
-<img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/0.49689868733778075-firstPhoto-zdjecie1_projekt.png" /> 
+<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/arturscibor.png" /> 
 
 - Link to site: https://arturscibor.pl/
 - For more information, see: https://arturscibor.pl/projects/project/0914754c-b46c-4a0c-8ec0-be43034bc93e
 
 ### The fourth project: Engineering design Backend (My role)
-<img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/0.5615340477989766-firstPhoto-strona_wizualna.png" /> 
+<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/pracastrona.png" /> 
 
 - The website is unavailable because it is used for everyday work and is used by a private person.
 - For more information, see: https://arturscibor.pl/projects/project/b2a6442d-f4b3-435a-b253-5570b8eb96f3
 
 ### The fifth project: Engineering design Backend (My role)
-<img align="left" alt="photo" src="https://server.arturscibor.pl/file/imagesproject/0.9955786998593528-firstPhoto-zdjecie.png" /> 
+<img align="left" alt="photo src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/projektinzynierski.png" /> 
 
 - Link to site: http://projektinzynierski.strona.arturscibor.pl/
 - For more information, see: https://arturscibor.pl/projects/project/70a13d41-6d17-4dcf-b085-c6eb700febb7
