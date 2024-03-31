@@ -81,7 +81,7 @@ These are my immediate goals to achieve.
 - For more information, see: https://arturscibor.pl/projects/project/b2a6442d-f4b3-435a-b253-5570b8eb96f3
 
 ### The fifth project: Engineering design Backend (My role)
-<img align="left" alt="photo src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/projektinzynierski.png" /> 
+<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/projektinzynierski.png" /> 
 
 - Link to site: http://projektinzynierski.strona.arturscibor.pl/
 - For more information, see: https://arturscibor.pl/projects/project/70a13d41-6d17-4dcf-b085-c6eb700febb7
