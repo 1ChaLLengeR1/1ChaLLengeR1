@@ -34,15 +34,29 @@ These are my immediate goals to achieve.
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
 
-### Short about me
-<h2>Level English: B1, B1+</h2>
+### Krótko o mnie:
+<h2>Poziom Angielskiego: B1</h2>
+<h2>Poziom Niemieckiego: B1</h2>
+<h2>Poziom Polskiego: Natywny</h2>
+
+- 🔭 Aktualnie pracuję na https://arturscibor.pl/ 
+- 🌱 Obecnie uczę się Nuxt3 i Golang
+- 👯 Szukam pracy związanej z Vue.js
+- 💬 Zapytaj o Vue.js 
+- 📫 Jak do mnie dotrzeć: artek.scibor@gmail.com 
+- ⚡ Śmieszny fakt: chce być korposzczurem :)
+
+### Briefly about me:
+<h2>English level: B1</h2>
+<h2>German level: B1</h2>
+<h2>Polish level: Native</h2>
 
 - 🔭 I’m currently working on https://arturscibor.pl/ 
-- 🌱 I’m currently learning Nuxt3 
+- 🌱 I’m currently learning Nuxt3 and Golang 
 - 👯 I’m looking to collaborate on Vue.js 
 - 💬 Ask me about Vue.js 
 - 📫 How to reach me: artek.scibor@gmail.com 
-- ⚡ Fun fact: jeżdżę na rowerze
+- ⚡ Funny fact: I want to be a corpsman :)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/1ChaLLengeR1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/artur-%C5%9Bcibor-9799ba276//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100008634312630)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/artur.sciborr//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arturscibor.pl/)  
 
