@@ -5,11 +5,15 @@
    <img width="100%" align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/arturscibor.png" />
 </p>
 
-# Wersja polska
+# O mnie:
 Witam, mam na imię Artur i mam 24 lata. Niedawno ukończyłem studia inżynierskie na kierunku informatyka na Uniwersytecie Pedagogicznym w Krakowie. Obecnie pracuję w rodzinnym biznesie, wykonując sezonowe obowiązki. W wolnym czasie często jeżdżę na rowerze. W zakresie samorozwoju technologicznego, obecnie pracuję nad kolejnym projektem do mojego portfolio, którego tematyką są dieta, statystyki i samorozwój.
 
-# English version
+# About me:
 Hello, my name is Artur, and I am 24 years old. I recently graduated with a Bachelor's degree in Computer Science from the Pedagogical University of Krakow. Currently, I help with the family business, performing seasonal duties. In my free time, I frequently ride my bike. As for my technological self-development, I am currently working on another project for my portfolio, focusing on diet, statistics, and self-improvement.
+
+
+## Moje stanowisko pracy
+Aktualnie mój post wygląda tak. Wiem, że jedno zdjęcie może nie zdradza wszystkiego, ale jest na nim praktycznie wszystko, czego potrzebuję do codziennej nauki i pracy. Planuję rozbudowę stacji roboczej, dodanie czwartego monitora do pracy, a docelowo wymianę kwadratowego na model podobny do pozostałych, aby stworzyć kompleksową stację roboczą opartą na 24 calach. Dlaczego aż cztery monitory? Kiedy piszę projekty w kilku technologiach jednocześnie i czytam informacje, potrzebuję przestrzeni na wszystko. Teraz nauka i praca nad projektami w pełnym składzie naprawdę mi pomaga, bo nie muszę co chwilę przełączać zakładek – wszystko jest otwarte, a zmiany, redaktorzy itp. widoczne są w czasie rzeczywistym.
 
 ## My workstation
 Currently, my post looks like this. I know that one photo may not give everything away, but practically everything I need for daily study and work is on it. I plan to expand the workstation, add a fourth monitor for work, and eventually replace the square one with a similar model to the others to create a comprehensive workstation based on 24 inches. Why as many as four monitors? When I write projects in several technologies at the same time and read information, I need space for everything. Now, learning and working on projects as a full stack, it really helps because I don't have to switch tabs all the time - everything is open, and changes, editors, etc. are visible in real time.
