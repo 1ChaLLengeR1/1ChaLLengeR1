@@ -5,7 +5,11 @@
    <img width="100%" align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/arturscibor.png" />
 </p>
 
-Hi, my name is Artur and I am 23 years old. At the moment I am a 7th semester engineering student with a major in computer science at the Pedagogical University of Cracow. I'm studying programming - WebDeveloper as a full stack developer based on Vue.js framework. At the moment I am at the stage of writing an engineering project as a backend devloper on Laravel technology. I am in the process of learning this technology, of course, as this is my first project related to this language. 
+# Wersja polska
+Witam, mam na imię Artur i mam 24 lata. Niedawno ukończyłem studia inżynierskie na kierunku informatyka na Uniwersytecie Pedagogicznym w Krakowie. Obecnie pracuję w rodzinnym biznesie, wykonując sezonowe obowiązki. W wolnym czasie często jeżdżę na rowerze. W zakresie samorozwoju technologicznego, obecnie pracuję nad kolejnym projektem do mojego portfolio, którego tematyką są dieta, statystyki i samorozwój.
+
+# English version
+Hello, my name is Artur, and I am 24 years old. I recently graduated with a Bachelor's degree in Computer Science from the Pedagogical University of Krakow. Currently, I help with the family business, performing seasonal duties. In my free time, I frequently ride my bike. As for my technological self-development, I am currently working on another project for my portfolio, focusing on diet, statistics, and self-improvement.
 
 ## My workstation
 Currently, my post looks like this. I know that one photo may not give everything away, but practically everything I need for daily study and work is on it. I plan to expand the workstation, add a fourth monitor for work, and eventually replace the square one with a similar model to the others to create a comprehensive workstation based on 24 inches. Why as many as four monitors? When I write projects in several technologies at the same time and read information, I need space for everything. Now, learning and working on projects as a full stack, it really helps because I don't have to switch tabs all the time - everything is open, and changes, editors, etc. are visible in real time.
