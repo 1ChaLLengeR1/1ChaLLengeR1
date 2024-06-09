@@ -23,22 +23,6 @@ These are my immediate goals to achieve.
 
 ## Skills🛠️  
 
-| name            | icon                                                                                                                                           |
-|---------------- |-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Vue.js          | <img alt="Vue.js"  width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />                 |
-| Quasar          | <img alt="Quasar" width="60px" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/icons/quasar%20logo.png" />                        |
-| Vuetify         | <img alt="Vuetify" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />                      |
-| JavaScript      | <img alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />             |
-| HTML5           |<img alt="HTML5" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />                    |
-| CSS             | <img alt="CSS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />                       |
-| Tailwind        | <img  alt="Tailwind" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />   |
-| Node.js         | <img alt="Node.js" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />               |
-| Python(FastAPI) | <img alt="FastAPI" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />             |
-| PostgresSQL     | <img alt="PostgresSQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />   |
-| Linux           | <img alt="Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />                            |
-| Nginx           | <img alt="Nginx" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />                            |
-
-
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
 
 ### Short about me
