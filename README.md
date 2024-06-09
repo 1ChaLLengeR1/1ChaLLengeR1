@@ -21,9 +21,15 @@ Currently, my post looks like this. I know that one photo may not give everythin
     <img width="100%" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/stanowisko.jpg" alt="stanowisko_komputerowe" />
 </p>
 
+## Jak rozwijam się, jako developer? 🌱🌱🌱
+Mam dość sporo pomysł na projekty. Obecnie jestem w trakcie pisania jednego.
+- Aby poprawić moją znajomość języka angielskiego. To jest dla mnie bardzo ważne.
+- Czytanie książki „Czysty kod” w celu udoskonalenia umiejętności pisania.
+
+To są moje najbliższe cele do osiągnięcia.
+
 ## How does the plaza develop 🌱🌱🌱
 I have some ideas on how to polish my Web Developer knowledge.
-- The project currently in development is a commercial venture. Specifically, it is a project to develop a website for my mother's business, which has a significant number of target customers.
 - To improve my English language skills. This is very important to me.
 - Reading the book "Clean Code" to improve my writing skills.
 
@@ -45,6 +51,8 @@ These are my immediate goals to achieve.
 - 💬 Zapytaj o Vue.js 
 - 📫 Jak do mnie dotrzeć: artek.scibor@gmail.com 
 - ⚡ Śmieszny fakt: chce być korposzczurem :)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/1ChaLLengeR1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/artur-%C5%9Bcibor-9799ba276//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100008634312630)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/artur.sciborr//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arturscibor.pl/)  
 
 ### Briefly about me:
 <h2>English level: B1</h2>
