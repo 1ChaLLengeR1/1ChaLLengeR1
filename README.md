@@ -6,7 +6,7 @@
 </p>
 
 # O mnie:
-Witam, mam na imię Artur i mam 24 lata. Niedawno ukończyłem studia inżynierskie na kierunku informatyka na Uniwersytecie Pedagogicznym w Krakowie. Obecnie pracuję w rodzinnym biznesie, wykonując sezonowe obowiązki. W wolnym czasie często jeżdżę na rowerze. W zakresie samorozwoju technologicznego, obecnie pracuję nad kolejnym projektem do mojego portfolio, którego tematyką są dieta, statystyki i samorozwój.
+Witam, mam na imię Artur i mam 24 lata. Niedawno ukończyłem studia inżynierskie na kierunku informatyka na Uniwersytecie Pedagogicznym w Krakowie. Obecnie pracuję w rodzinnym biznesie, wykonując sezonowe obowiązki. W wolnym czasie często jeżdżę na rowerze. W zakresie samorozwoju technologicznego, obecnie pracuję nad kolejnym projektem do mojego portfolio, którego tematyką są dieta, statystyki i samorozwój :)
 
 # About me:
 Hello, my name is Artur, and I am 24 years old. I recently graduated with a Bachelor's degree in Computer Science from the Pedagogical University of Krakow. Currently, I help with the family business, performing seasonal duties. In my free time, I frequently ride my bike. As for my technological self-development, I am currently working on another project for my portfolio, focusing on diet, statistics, and self-improvement.
