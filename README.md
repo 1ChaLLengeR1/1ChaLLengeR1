@@ -104,5 +104,6 @@ These are my immediate goals to achieve.
 
 - Link to site: http://projektinzynierski.strona.arturscibor.pl/
 - For more information, see: https://arturscibor.pl/projects/project/7d3a2090-e272-4c69-8677-8782f5f378ac
+- repository: https://github.com/1ChaLLengeR1/server_projekt_inzynierski
 
 
