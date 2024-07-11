@@ -76,24 +76,28 @@ These are my immediate goals to achieve.
 
 - Link to site: https://projekt2.strona.arturscibor.pl/aboutU
 - For more information, see: https://arturscibor.pl/projects/project/38e1c24e-0929-4668-9fa2-9091dc2d2f47
+- repository: https://github.com/1ChaLLengeR1/construction-website-vue.js
 
 ### The second project: a colleague's portfolio site
 <img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/maksaStrona.png" /> 
 
 - Link to site: https://projekt1.strona.arturscibor.pl/
 - For more information, see: https://arturscibor.pl/projects/project/e41ae035-2eb1-4e7b-a4f7-14b73358f098
+- repository: https://github.com/1ChaLLengeR1/maks-website-vue.js
 
 ### The third project: a portfolio site of mine
 <img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/arturscibor.png" /> 
 
 - Link to site: https://arturscibor.pl/
 - For more information, see: https://arturscibor.pl/projects/project/702853f2-1f00-4b2f-bbe3-6d5c642936b2
+- repository: https://github.com/1ChaLLengeR1/arturscibor-website-vue.js
 
 ### The fourth project: Engineering design Backend (My role)
 <img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/pracastrona.png" /> 
 
 - The website is unavailable because it is used for everyday work and is used by a private person.
 - For more information, see: https://arturscibor.pl/projects/project/4d9d72f9-6e5f-4caa-b923-6598358014f1
+- repository: https://github.com/1ChaLLengeR1/server_projekt_inzynierski
 
 ### The fifth project: Engineering design Backend (My role)
 <img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/projektinzynierski.png" /> 
