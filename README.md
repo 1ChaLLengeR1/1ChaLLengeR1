@@ -100,7 +100,7 @@ These are my immediate goals to achieve.
 - repository: https://github.com/1ChaLLengeR1/server_projekt_inzynierski
 
 ### The fifth project: Engineering design Backend (My role)
-<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/pracastrona.png" /> 
+<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/projektinzynierski.png" /> 
 
 - The website is unavailable because it is used for everyday work and is used by a private person.
 - For more information, see: https://arturscibor.pl/projects/project/4d9d72f9-6e5f-4caa-b923-6598358014f1
