@@ -100,10 +100,17 @@ These are my immediate goals to achieve.
 - repository: https://github.com/1ChaLLengeR1/server_projekt_inzynierski
 
 ### The fifth project: Engineering design Backend (My role)
-<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/projektinzynierski.png" /> 
+<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/pracastrona.png" /> 
 
-- Link to site: http://projektinzynierski.strona.arturscibor.pl/
-- For more information, see: https://arturscibor.pl/projects/project/7d3a2090-e272-4c69-8677-8782f5f378ac
+- The website is unavailable because it is used for everyday work and is used by a private person.
+- For more information, see: https://arturscibor.pl/projects/project/4d9d72f9-6e5f-4caa-b923-6598358014f1
 - repository: https://github.com/1ChaLLengeR1/server_projekt_inzynierski
+
+### The sixth project: Project Diet
+<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/diet.png" /> 
+
+- Link to site: https://projektdieta.strona.arturscibor.pl/
+- For more information, see: https://arturscibor.pl/projects/project/f0faa618-7e9a-446a-849f-374c976d9524
+- repository: https://github.com/1ChaLLengeR1/diet_project_frontend_nuxt3
 
 
