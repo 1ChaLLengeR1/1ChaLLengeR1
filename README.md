@@ -49,7 +49,7 @@ These are my immediate goals to achieve.
 ### The fifth project: Engineering design Backend (My role)
 <img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/projektinzynierski.png" /> 
 
-- The website is unavailable because it is used for everyday work and is used by a private person.
+- Link to site: https://projektinzynierski.strona.arturscibor.pl/
 - For more information, see: https://arturscibor.pl/projects/project/4d9d72f9-6e5f-4caa-b923-6598358014f1
 - repository: https://github.com/1ChaLLengeR1/server_projekt_inzynierski
 
@@ -58,7 +58,7 @@ These are my immediate goals to achieve.
 
 - The website is unavailable because it is used for everyday work and is used by a private person.
 - For more information, see: https://arturscibor.pl/projects/project/4d9d72f9-6e5f-4caa-b923-6598358014f1
-- repository: https://github.com/1ChaLLengeR1/server_projekt_inzynierski
+- repository: https://github.com/1ChaLLengeR1/project-job-website-vue.js
 
 ### The third project: a portfolio site of mine
 <img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/arturscibor.png" /> 
