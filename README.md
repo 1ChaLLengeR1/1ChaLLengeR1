@@ -26,7 +26,7 @@ These are my immediate goals to achieve.
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
 
 ### Briefly about me:
-<h2>English level: B1</h2>
+<h2>English level: B2</h2>
 <h2>German level: B1</h2>
 <h2>Polish level: Native</h2>
 
