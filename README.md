@@ -21,7 +21,7 @@ I have some ideas on how to enhance my Web Developer knowledge:
 
 These are my immediate goals to achieve. 
 ## Skills🛠️  
-<img width="100%" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/sklis2.png" alt="skills" />
+<img width="100%" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/skills_v2.png" alt="skills" />
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=1ChaLLengeR1&theme=algolia&show_icons=true" alt="stats" />
 
