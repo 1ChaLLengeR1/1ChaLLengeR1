@@ -11,7 +11,7 @@ Hello, my name is Artur Ścibor. I'm a Backend Developer with over 2.5 years of 
 ## My workstation
 Currently, my setup looks like this. I know that one photo may not capture everything, but it shows practically everything I need for my daily study and work. I plan to expand the workstation by adding a fourth monitor for work and eventually replacing the square one with a similar model to the others to create a comprehensive workstation based on 24-inch screens. Why as many as four monitors? When I work on projects in several technologies simultaneously and read information, I need space for everything. Now, learning and working on projects as a full-stack developer, it really helps because I don't have to switch tabs all the time—everything is open, and changes, editors, etc., are visible in real-time.
 <p align="center">
-    <img width="100%" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/stanowisko_v2.jpg" />
+    <img width="100%" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/stanowisko.jpeg" />
 </p>
 
 ## How the Plan Develops 🌱🌱🌱
