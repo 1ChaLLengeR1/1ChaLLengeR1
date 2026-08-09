@@ -35,7 +35,10 @@ These are my immediate goals to achieve.
 - 📫 How to reach me: artek.scibor@gmail.com 
 - ⚡ Funny fact: I want to be a corporate rat  :)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/1ChaLLengeR1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/artur-%C5%9Bcibor-9799ba276//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100008634312630)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/artur.sciborr//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arturscibor.pl/)  
+My Activity
+<p align="center">
+    <img width="100%" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/commits" />
+</p> 
 
 # Projects
 ### First project: MonoRepo - Vue - Fastapi - Celery
