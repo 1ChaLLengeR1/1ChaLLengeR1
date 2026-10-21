@@ -35,7 +35,7 @@ These are my immediate goals to achieve.
 
 My Activity
 <p align="center">
-    <img width="100%" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/exp.png" />
+    <img width="100%" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/commits.png" />
 </p> 
 
 # Projects
